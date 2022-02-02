@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yevhenprudnikproject/static/css/main.0867b72b.css",
+    "main.js": "/yevhenprudnikproject/static/js/main.bdd2509c.js",
+    "static/js/787.ca846adf.chunk.js": "/yevhenprudnikproject/static/js/787.ca846adf.chunk.js",
+    "index.html": "/yevhenprudnikproject/index.html",
+    "main.0867b72b.css.map": "/yevhenprudnikproject/static/css/main.0867b72b.css.map",
+    "main.bdd2509c.js.map": "/yevhenprudnikproject/static/js/main.bdd2509c.js.map",
+    "787.ca846adf.chunk.js.map": "/yevhenprudnikproject/static/js/787.ca846adf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0867b72b.css",
+    "static/js/main.bdd2509c.js"
+  ]
+}
