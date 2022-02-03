@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/prudnikproject/static/css/main.5ed3e87c.css",
-    "main.js": "/prudnikproject/static/js/main.6d533d8d.js",
+    "main.js": "/prudnikproject/static/js/main.d2b7da02.js",
     "static/js/787.ca846adf.chunk.js": "/prudnikproject/static/js/787.ca846adf.chunk.js",
     "index.html": "/prudnikproject/index.html",
     "main.5ed3e87c.css.map": "/prudnikproject/static/css/main.5ed3e87c.css.map",
-    "main.6d533d8d.js.map": "/prudnikproject/static/js/main.6d533d8d.js.map",
+    "main.d2b7da02.js.map": "/prudnikproject/static/js/main.d2b7da02.js.map",
     "787.ca846adf.chunk.js.map": "/prudnikproject/static/js/787.ca846adf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ed3e87c.css",
-    "static/js/main.6d533d8d.js"
+    "static/js/main.d2b7da02.js"
   ]
 }
