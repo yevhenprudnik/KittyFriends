@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/prudnikproject/static/css/main.5ed3e87c.css",
-    "main.js": "/prudnikproject/static/js/main.d2b7da02.js",
-    "static/js/787.ca846adf.chunk.js": "/prudnikproject/static/js/787.ca846adf.chunk.js",
-    "index.html": "/prudnikproject/index.html",
-    "main.5ed3e87c.css.map": "/prudnikproject/static/css/main.5ed3e87c.css.map",
-    "main.d2b7da02.js.map": "/prudnikproject/static/js/main.d2b7da02.js.map",
-    "787.ca846adf.chunk.js.map": "/prudnikproject/static/js/787.ca846adf.chunk.js.map"
+    "main.css": "/SmartBrain/static/css/main.5ed3e87c.css",
+    "main.js": "/SmartBrain/static/js/main.dfb5d9d5.js",
+    "static/js/787.ca846adf.chunk.js": "/SmartBrain/static/js/787.ca846adf.chunk.js",
+    "index.html": "/SmartBrain/index.html",
+    "main.5ed3e87c.css.map": "/SmartBrain/static/css/main.5ed3e87c.css.map",
+    "main.dfb5d9d5.js.map": "/SmartBrain/static/js/main.dfb5d9d5.js.map",
+    "787.ca846adf.chunk.js.map": "/SmartBrain/static/js/787.ca846adf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ed3e87c.css",
-    "static/js/main.d2b7da02.js"
+    "static/js/main.dfb5d9d5.js"
   ]
 }
